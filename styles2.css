@@ -1,0 +1,33 @@
+.body {
+    font-size: 24px;
+}
+.red {
+    color: red;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-style: bold;
+}
+.xxsmall {
+    font-size:xx-small;
+}
+.xsmall {
+    font-size:x-small;
+}
+.small {
+    font-size:small;
+}
+.medium {
+    font-size:medium;
+}
+.large {
+    font-size:large;
+}
+.xlarge {
+    font-size:x-large;
+}
+.xxlarge {
+    font-size:xx-large;
+}
